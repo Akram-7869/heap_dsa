@@ -63,10 +63,11 @@ public class heap {
 
     public static void main(String[] args) {
         heap h=new heap();
-        h.add(15);
+         h.add(15);
          h.add(55);
          h.add(35);
          h.add(55);
+         h.add(60);
         
         
         

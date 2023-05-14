@@ -40,10 +40,10 @@ public class heap {
             }
         }
         
-        //is empty
-        public boolean isempty(){
-            return list.size()==0;
-        }
+//         //is empty
+//         public boolean isempty(){
+//             return list.size()==0;
+//         }
 
         
         //remove the element
